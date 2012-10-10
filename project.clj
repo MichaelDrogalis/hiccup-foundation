@@ -1,4 +1,4 @@
-(defproject hiccup-foundation "0.1.0-SNAPSHOT"
+(defproject hiccup-foundation "0.1.0"
   :description "Zurb Foundation in Hiccup"
   :url "https://github.com/MichaelDrogalis/hiccup-foundation"
   :license {:name "Eclipse Public License"
