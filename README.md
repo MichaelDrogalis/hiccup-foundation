@@ -19,7 +19,7 @@ files:
   (wrap-foundation-resources handler))
 ```
 
-Then in your Hiccup template, add in `include-bootstrap` in the page
+Then in your Hiccup template, add in `include-foundation` in the page
 header:
 
 ```clojure
