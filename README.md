@@ -1,6 +1,6 @@
 # hiccup-foundation
 
-(Zurb Foundation)[http://foundation.zurb.com/] in (Hiccup)[https://github.com/weavejester/hiccup]. This is basically a replica of (hiccup-bootstrap)[https://github.com/weavejester/hiccup-bootstrap], except with my favorite CSS framework. Credit to (weavejester)[https://github.com/weavejester].
+[Zurb Foundation](http://foundation.zurb.com/) in [Hiccup](https://github.com/weavejester/hiccup). This is basically a replica of [hiccup-bootstrap](https://github.com/weavejester/hiccup-bootstrap), except with my favorite CSS framework. Credit to [weavejester](https://github.com/weavejester).
 
 ## Installation
 
